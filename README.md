@@ -1,7 +1,4 @@
-# Calculator
-
-
-Link to project:
+# Calculator: <a href="https://stephaniescalculator.netlify.app/">Live Site</a>
 
 ## How It's Made:
 
